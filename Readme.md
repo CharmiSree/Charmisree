@@ -3,9 +3,9 @@
 
 # 💫 About Me  
 🔭 I’m currently working as Operations Intern @ Retro Safe Innovations LLP.  
-👯 I’m looking to collaborate on AI/ML, cloud computing, and innovative software projects.  
+👯 I’m looking to collaborate on cloud computing, and innovative software projects.  
 🤝 I’m open to opportunities in software development and problem-solving roles.  
-🌱 I’m currently learning AI/ML, advanced networking, and full-stack development.  
+🌱 I’m currently learning advanced networking, and full-stack development.  
 
 
 ✨ Let’s connect and create something amazing together! 🚀  
